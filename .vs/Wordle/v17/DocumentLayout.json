@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|c:\\users\\begum\\desktop\\projects\\wordle\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|c:\\users\\begum\\desktop\\projects\\wordle\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|c:\\users\\begum\\desktop\\projects\\wordle\\assets\\scripts\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\cellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\rowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\wordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\wordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\rowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|c:\\users\\begum\\desktop\\projects\\wordle\\assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|C:\\Users\\begum\\Desktop\\Projects\\Wordle\\assets\\scripts\\cellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B55705B-21AC-E89B-C09B-85E35B4116FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cellcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainMenu.cs",
               "DocumentMoniker": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\MainMenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T08:19:05.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T08:19:05.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -63,25 +62,24 @@
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T06:39:36.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T06:39:36.85Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ContentController.cs",
               "DocumentMoniker": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\ContentController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ContentController.cs",
               "ToolTip": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\ContentController.cs",
               "RelativeToolTip": "Assets\\Scripts\\ContentController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAgwFEAAAAAAAAA",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T06:21:20.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CellController.cs",
               "DocumentMoniker": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\CellController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CellController.cs",
@@ -93,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "RowController.cs",
               "DocumentMoniker": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\RowController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RowController.cs",
@@ -101,23 +99,25 @@
               "RelativeToolTip": "Assets\\Scripts\\RowController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T06:21:08.214Z"
+              "WhenOpened": "2024-04-25T06:21:08.214Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "WordManager.cs",
               "DocumentMoniker": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\WordManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\WordManager.cs",
               "ToolTip": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\WordManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\WordManager.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T06:20:37.737Z"
+              "WhenOpened": "2024-04-25T06:20:37.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "GameOver.cs",
               "DocumentMoniker": "C:\\Users\\begum\\Desktop\\Projects\\Wordle\\Assets\\Scripts\\GameOver.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOver.cs",
@@ -125,7 +125,8 @@
               "RelativeToolTip": "Assets\\Scripts\\GameOver.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T06:19:53.154Z"
+              "WhenOpened": "2024-04-25T06:19:53.154Z",
+              "EditorCaption": ""
             }
           ]
         }

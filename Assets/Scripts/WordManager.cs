@@ -26,7 +26,7 @@ public class WordManager : MonoBehaviour
         return randomWord;
     }
 
-    private string GetSelectedWord()
+    public string GetSelectedWord()
     {
         if (string.IsNullOrEmpty(selectedWord))
         {

@@ -11,6 +11,7 @@ public class ContentController : MonoBehaviour
     [SerializeField] private WordManager wordManager;
     [SerializeField] private GameManager gameManager;
     [SerializeField] private Text winLoseText;
+    [SerializeField] private Text wordDisplayText;
 
     private int _index;
 
@@ -76,6 +77,15 @@ public class ContentController : MonoBehaviour
 
     public void UpdateWinLoseText(bool isWin)
     {
-        winLoseText.text = isWin ? "Kazandýnýz!" : "Kaybettiniz!";
+        if (isWin)
+        {
+            winLoseText.text = "Kazandýnýz!";
+            wordDisplayText.text = ""; 
+        }
+        else
+        {
+            winLoseText.text = "Kaybettiniz!";
+            wordDisplayText.text = "Doðru kelime: " + wordManager.GetSelectedWord();
+        }
     }
 }
